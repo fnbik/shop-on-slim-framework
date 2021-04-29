@@ -3,7 +3,7 @@
         "twig/twig": "^1.0",
         "slim/csrf": "^1.0",
         "jeremykendall/slim-auth": "^1.0",
-        "illuminate/database": "~5.1",
+        "illuminate/database": "~6.20",
         "respect/validation": "^1.1",
         "slim/psr7": "^1.0"
     },
